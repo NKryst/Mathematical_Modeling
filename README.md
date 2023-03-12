@@ -6,7 +6,7 @@ The libraries we are using here are the usual ones :
 * Pandas 
 * Matplotlib
 
-## Theories will be covered 
+## Will check the following 
 
 - Chaos Theory
 - Stochastic modelling
